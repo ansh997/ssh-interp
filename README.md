@@ -1,4 +1,4 @@
-# Team24-SSH: \<Project Name here>
+# Team24-SSH: \<ssh-interp>
     Himanshu Pal 2023701003
     Snigdha Agarwal  2023701013
     Uday Bhaskar
