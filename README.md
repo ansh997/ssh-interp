@@ -27,3 +27,6 @@ pip3 install lightning openai-clip transformers==4.37.2 omegaconf python-dotenv 
 The model weights for LlaVA are automatically downloaded from hugging face.
 
 The configs for InstructBLIP models are under `src/caption/lavis/configs/`. In order to get InstructBLIP (7B) working, you should download the [pretrained model weights](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna7b_trimmed.pth) and [vicuna7b weights](https://huggingface.co/lmsys/vicuna-7b-v1.1) weights. In `src/caption/lavis/configs/blip2_instruct_vicuna7b.yaml`, set the pretrained location to the pretrained weight path and llm_model to the vicuna7b weight path.
+
+TO RUN download:
+[data.json](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/himanshu_pal_research_iiit_ac_in/EZhcFHN-B1RBnOrpiylSWCEBwZHawWxc4iR3bxjhrEAk2A?e=mpspiZ) is available in onedrive.
